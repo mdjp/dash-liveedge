@@ -1,6 +1,6 @@
 # dash-utils
 
-Acollction of utilities to help me deal with dash manifests and adio decoding
+A collection of utilities to help me deal with dash manifests and audio decoding
 
 ### liveedge.js
 
