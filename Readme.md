@@ -18,5 +18,5 @@ Simple utility code to change the start point in a manifest
 
 No dependancies
 
-usage: node mpdtrim <offsetseconds> <startsegment> <presentationtimeoffset> <timescale> <duration>
+`usage: node mpdtrim <offsetseconds> <startsegment> <presentationtimeoffset> <timescale> <duration>`
 
